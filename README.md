@@ -66,4 +66,4 @@ This repository tracks my journey of learning and contributing to the RISC-V eco
 ---
 
 ##  Goal
-To contribute consistently to the RISC-V open-source community and improve my chances of selection in the LFX RISC-V Mentorship.
+To contribute consistently to the RISC-V open-source community and improve my skills.
