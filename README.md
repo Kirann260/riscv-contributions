@@ -27,7 +27,7 @@ This repository tracks my journey of learning and contributing to the RISC-V eco
 ##  Pull Requests / Issues
 | Date | Repository | Contribution | Status |
 |------|------------|--------------|--------|
-| upcoming |  |  | |
+| 10 December 2025| olofk/serv | Fix missing space after comma in README (PR #153) | Merged |
 
 ---
 
