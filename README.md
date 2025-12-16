@@ -27,8 +27,8 @@ This repository tracks my journey of learning and contributing to the RISC-V eco
 ##  Pull Requests / Issues
 | Date | Repository | Contribution | Status |
 |------|------------|--------------|--------|
-| 10 December 2025| olofk/serv | Fix missing space after comma in README (PR #153) | Merged |
-
+| 10 December 2025 | olofk/serv | Fix missing space after comma in README (PR #153) | Merged |
+| 15 December 2025 | olofk/serv | Fix typos and grammar errors in README (PR #154) | Merged |
 ---
 
 ###  Single Cycle RISC-V (RV32I) Processor – Completed (2 Month Work)
